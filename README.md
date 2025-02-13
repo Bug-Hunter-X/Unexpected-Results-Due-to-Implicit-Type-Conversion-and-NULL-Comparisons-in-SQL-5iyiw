@@ -1,0 +1,1 @@
+This repository demonstrates common SQL errors related to implicit type conversion and NULL value comparisons. The `bug.sql` file contains code exhibiting these issues. The `bugSolution.sql` file provides corrected code and explanations.
